@@ -2,3 +2,14 @@
 and here are simple texts.
 they are all for learning 
 purposes but i have issues
+
+this is a change that i made locally
+i will be pushing it to github
+
+```{python}
+ print("this is a little python code")
+```
+
+```{python}
+
+```
